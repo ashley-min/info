@@ -1,0 +1,115 @@
+.greentext{
+    color:darkgreen;
+    font-family:'Brush Script MT';
+    font-size:larger;
+    text-transform:lowercase;
+}
+
+body {
+    background-image: url("../assets/images/nol.jpg");
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.videocen{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.headnew{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  font-size:2rem;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family:Impact;
+  color:blanchedalmond; 
+}
+
+.menimi{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  font-weight: 100;
+  line-height: 4rem;
+  font-family:Georgia;
+  color:azure;
+  text-align: center;
+}
+
+.mol{
+  text-transform: uppercase;
+  display: block;
+  font-size: 2rem;
+  color:cadetblue;
+  font-family:Impact;
+}
+
+.please{
+  display: block;
+  font-size: 3rem;
+  font-weight: 100;
+  text-transform: uppercase;
+  color: olivedrab;
+  font-family:Times;
+}
+
+.aboutnew{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  font-size:2rem;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family:Verdana;
+  color:wheat;
+}
+
+.tighttop{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  font-size:4rem;
+  font-weight: bold;
+  font-family:Georgia;
+  color:aliceblue;
+}
+
+.middlebot {
+  display: block;
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family:garamond;
+  color: darkred;
+}
+
+.darktext{
+  color:saddlebrown;
+  font-family:'Brush Script MT';
+  font-size:1.5rem;
+  font-stretch: semi-condensed;
+  line-height: 1;
+}
+
+.professional{
+  font-family:'Times New Roman';
+}
+
+.light{
+  color:lightsteelblue;
+  display: block;
+  font-size: 1rem;
+  font-weight: 800;
+  text-transform:uppercase;
+  text-align: left;
+}
+
+.pond{
+  font-family:'Courier New';
+  font-weight:600;
+  font-style: italic;
+  font-size:larger;
+  color:Sienna;
+}

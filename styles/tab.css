@@ -1,0 +1,112 @@
+body {
+    background-image: url("../assets/images/gons.jpg");
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.topcent{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%, -50%)
+  }
+  
+  .centert{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50vw;
+  }
+  
+  .innerb{
+    border:20px solid lightblue;
+    padding: 18px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:10%;
+    margin-bottom:10%;
+    border-radius: 10px;
+  }
+
+  .zenny{
+    border:20px solid lavenderblush;
+    padding: 18px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:10%;
+    margin-bottom:10%;
+    border-radius: 20px;
+  }
+  
+  .zontal{
+    border:50px solid darksalmon;
+    padding: 0px;
+    margin-left:10%;
+    margin-right:10%;
+    border-radius:40px;
+  }
+
+  .monty{
+    border:50px solid plum;
+    padding: 0px;
+    margin-left:10%;
+    margin-right:10%;
+    border-radius:10px;
+  }
+  
+  .cap{
+    color:whitesmoke;
+    font-size: larger;
+    font-family: Georgia;
+    text-align: center;
+  }
+  
+  .swishcap{
+    color:honeydew;
+    font-size:larger;
+    font-family:Impact;
+    text-align:center;
+  }
+  
+  .footer{
+    background-color: darkkhaki;
+    text-align: center;
+    padding-top:3rem;
+    padding-bottom:3rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:darkolivegreen;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: darkgreen;
+  }
+
+  .mooli{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 4rem;
+    font-family:Georgia;
+    color:azure;
+    text-align: center;
+  }
